@@ -1,3 +1,5 @@
+List of colors in child branch
+pink
 white
 red
 black
