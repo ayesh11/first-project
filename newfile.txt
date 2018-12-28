@@ -1,3 +1,5 @@
+colors insubchild class
+skyblue
 white
 red
 black
