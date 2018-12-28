@@ -1,5 +1,10 @@
+subchild
 sub-child:colors
 violet
+
+colors insubchild class
+skyblue
+master
 white
 red
 black
